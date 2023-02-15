@@ -6,4 +6,4 @@ ABC Company, an education business company, has the objective of preparing the s
 Create a flowchart to determine KPI to answer the needs of investors (The CSF is the students understand of the material).
 
 ## Solution 
-!(image)[https://github.com/Pebrian-Mubarok/Business-Understanding/blob/main/Business%20Understanding.png)]
+(!image)[https://github.com/Pebrian-Mubarok/Business-Understanding/blob/main/Business%20Understanding.png)]
